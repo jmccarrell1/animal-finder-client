@@ -8,7 +8,7 @@ export const Portfolio = () => {
   return (
     <section className="bg-light">
       <div className="container">
-        <div>page: {state.pagination.current_page}</div>
+        {/* <div>page: {state.pagination.current_page}</div> */}
         <div className="row">
           {state.animals.map((item) => (
             <PortfolioItem key={item.id} value={item} />

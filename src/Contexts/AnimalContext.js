@@ -1,23 +1,23 @@
-import React, { useState, useReducer } from "react";
+import React, { useState, useReducer } from 'react';
 
 export const AnimalContext = React.createContext(null);
 
-export const AnimalContextProvider = props => {
+export const AnimalContextProvider = (props) => {
   const defaultValue = {
     hasResults: false,
     animals: [],
-    pagination: {}
+    pagination: {},
   };
 
   const [state, dispatch] = useReducer(reducer, defaultValue);
 
   const contextValue = {
     state,
-    dispatch
+    dispatch,
   };
 
   return (
-    <AnimalContext.Provider value={contextValue}>
+    <AnimalContext.Provider value={{ state, dispatch }}>
       {props.children}
     </AnimalContext.Provider>
   );
@@ -25,23 +25,25 @@ export const AnimalContextProvider = props => {
 
 const reducer = (state, action) => {
   switch (action.type) {
-    case "update_search":
+    case 'update_search':
       return {
         ...state,
         animals: action.payload.animals,
         pagination: action.payload.pagination,
-        hasResults: true
+        hasResults: true,
       };
-    case "update_animal":
+    case 'update_animal':
       return {
         ...state,
         animals: [
           {
-            id: "444",
-            organization_id: "444"
-          }
-        ]
+            id: '444',
+            organization_id: '444',
+          },
+        ],
       };
+    case 'error':
+      return { ...state, animals: [] };
     // case "update_pagination":
     //   return {
     //     ...state,

@@ -1,0 +1,47 @@
+/* .App {
+  text-align: left;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+} */
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+.container {
+  padding-top: 90px;
+}
+
+/* .modalImage {
+  max-height: 20pc;
+} */
+/* 
+@media only screen and (max-width: 380px) {
+  .modalImage {
+    max-height: 150px;
+    padding: 0 0 0 0;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    background-color: #fff;
+    background-clip: border-box;
+    border-radius: 0.25rem;
+  }
+} */
+
+/* @media only screen and (max-width: 800px) {
+  .modalImage {
+    max-height: 30pc;
+  }
+} */

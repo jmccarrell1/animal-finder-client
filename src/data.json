@@ -1,0 +1,561 @@
+{
+    "data": [
+        {
+            "id": 46199129,
+            "organization_id": "TX2320",
+            "url": "https://www.petfinder.com/dog/gus-46199129/wa/lacey/beaumont-pets-alive-tx2320/?referrer_id=93207fa4-4d64-43c0-9c0a-44da255e832b",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Australian Shepherd",
+                "secondary": "Great Pyrenees",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Bicolor",
+                "secondary": "Black",
+                "tertiary": "White / Cream"
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": "Medium",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Gus",
+            "description": "Gus is one cutie pie. If your looking for a bigger dog, Gus might be your guy. Him and his...",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199129/1/?bust=1570416470&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199129/1/?bust=1570416470&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199129/1/?bust=1570416470&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199129/1/?bust=1570416470"
+                }
+            ],
+            "status": "adoptable",
+            "status_changed_at": "2019-10-07T02:48:30+0000",
+            "published_at": "2019-10-07T02:48:30+0000",
+            "distance": null,
+            "contact": {
+                "email": "adopt@beaumontpetsalive.org",
+                "phone": "(409) 241-5833",
+                "address": {
+                    "address1": "719 Sleater Kinney Rd SE",
+                    "address2": null,
+                    "city": "Lacey",
+                    "state": "WA",
+                    "postcode": "98503",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/46199129"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/tx2320"
+                }
+            }
+        },
+        {
+            "id": 46199125,
+            "organization_id": "TX2156",
+            "url": "https://www.petfinder.com/dog/rigby-46199125/id/boise/paw-pals-of-hale-center-tx2156/?referrer_id=93207fa4-4d64-43c0-9c0a-44da255e832b",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Corgi",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": true,
+                "cats": true
+            },
+            "tags": [],
+            "name": "Rigby",
+            "description": "Meet Rigby, he is 3 years old, 19 lbs. Rigby is a tan/white, Pembroke Welsh Corgi mix. He has rounded...",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199125/1/?bust=1570416406&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199125/1/?bust=1570416406&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199125/1/?bust=1570416406&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199125/1/?bust=1570416406"
+                }
+            ],
+            "status": "adoptable",
+            "status_changed_at": "2019-10-07T02:46:54+0000",
+            "published_at": "2019-10-07T02:46:54+0000",
+            "distance": null,
+            "contact": {
+                "email": "pawpalshc@gmail.com",
+                "phone": "(806) 367-0695",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Boise",
+                    "state": "ID",
+                    "postcode": "83701",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/46199125"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/tx2156"
+                }
+            }
+        },
+        {
+            "id": 46199118,
+            "organization_id": "KY314",
+            "url": "https://www.petfinder.com/dog/sarasota-46199118/ky/ashland/ashland-animal-rescue-fund-ky314/?referrer_id=93207fa4-4d64-43c0-9c0a-44da255e832b",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Terrier",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White / Cream",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Large",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Sarasota",
+            "description": "Stop by our Kennel Monday thru Fridays from 10am-2pm at our new location 12365 Kevin Ave., in Ashland in the...",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199118/1/?bust=1570416352&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199118/1/?bust=1570416352&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199118/1/?bust=1570416352&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199118/1/?bust=1570416352"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199118/2/?bust=1570416362&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199118/2/?bust=1570416362&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199118/2/?bust=1570416362&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199118/2/?bust=1570416362"
+                }
+            ],
+            "status": "adoptable",
+            "status_changed_at": "2019-10-07T02:46:27+0000",
+            "published_at": "2019-10-07T02:46:27+0000",
+            "distance": null,
+            "contact": {
+                "email": "adopt4aarf@gmail.com",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Ashland",
+                    "state": "KY",
+                    "postcode": "41101",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/46199118"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ky314"
+                }
+            }
+        },
+        {
+            "id": 46199126,
+            "organization_id": "NY1274",
+            "url": "https://www.petfinder.com/dog/paul-46199126/ny/new-york/rescue-dogs-rock-nyc-ny1274/?referrer_id=93207fa4-4d64-43c0-9c0a-44da255e832b",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Black Labrador Retriever",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Large",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Paul",
+            "description": "You can fill out an adoption application online on our official website.This perfect little puppy is Paul! Paul is a...",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199126/1/?bust=1570416512&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199126/1/?bust=1570416512&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199126/1/?bust=1570416512&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199126/1/?bust=1570416512"
+                }
+            ],
+            "status": "adoptable",
+            "status_changed_at": "2019-10-07T02:46:27+0000",
+            "published_at": "2019-10-07T02:46:27+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@rescuedogsrocknyc.org",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "New York",
+                    "state": "NY",
+                    "postcode": "10075",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/46199126"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ny1274"
+                }
+            }
+        },
+        {
+            "id": 46199127,
+            "organization_id": "NY1274",
+            "url": "https://www.petfinder.com/dog/octavia-46199127/ny/new-york/rescue-dogs-rock-nyc-ny1274/?referrer_id=93207fa4-4d64-43c0-9c0a-44da255e832b",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Dachshund",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Octavia",
+            "description": "You can fill out an adoption application online on our official website.Meet Octavia! Octavia is the cutest Dachshund mix girl...",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/1/?bust=1570416516&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/1/?bust=1570416516&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/1/?bust=1570416516&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/1/?bust=1570416516"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/3/?bust=1570416516&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/3/?bust=1570416516&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/3/?bust=1570416516&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/3/?bust=1570416516"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/2/?bust=1570416516&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/2/?bust=1570416516&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/2/?bust=1570416516&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/2/?bust=1570416516"
+                }
+            ],
+            "status": "adoptable",
+            "status_changed_at": "2019-10-07T02:46:26+0000",
+            "published_at": "2019-10-07T02:46:26+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@rescuedogsrocknyc.org",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "New York",
+                    "state": "NY",
+                    "postcode": "10075",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/46199127"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ny1274"
+                }
+            }
+        },
+        {
+            "id": 46199128,
+            "organization_id": "NY1274",
+            "url": "https://www.petfinder.com/dog/octavia-46199127/ny/new-york/rescue-dogs-rock-nyc-ny1274/?referrer_id=93207fa4-4d64-43c0-9c0a-44da255e832b",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Dachshund",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Octavia",
+            "description": "You can fill out an adoption application online on our official website.Meet Octavia! Octavia is the cutest Dachshund mix girl...",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/1/?bust=1570416516&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/1/?bust=1570416516&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/1/?bust=1570416516&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/1/?bust=1570416516"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/3/?bust=1570416516&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/3/?bust=1570416516&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/3/?bust=1570416516&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/3/?bust=1570416516"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/2/?bust=1570416516&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/2/?bust=1570416516&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/2/?bust=1570416516&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/2/?bust=1570416516"
+                }
+            ],
+            "status": "adoptable",
+            "status_changed_at": "2019-10-07T02:46:26+0000",
+            "published_at": "2019-10-07T02:46:26+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@rescuedogsrocknyc.org",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "New York",
+                    "state": "NY",
+                    "postcode": "10075",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/46199127"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ny1274"
+                }
+            }
+        },
+        {
+            "id": 46199130,
+            "organization_id": "NY1274",
+            "url": "https://www.petfinder.com/dog/octavia-46199127/ny/new-york/rescue-dogs-rock-nyc-ny1274/?referrer_id=93207fa4-4d64-43c0-9c0a-44da255e832b",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Dachshund",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Octavia",
+            "description": "You can fill out an adoption application online on our official website.Meet Octavia! Octavia is the cutest Dachshund mix girl...",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/1/?bust=1570416516&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/1/?bust=1570416516&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/1/?bust=1570416516&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/1/?bust=1570416516"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/3/?bust=1570416516&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/3/?bust=1570416516&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/3/?bust=1570416516&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/3/?bust=1570416516"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/2/?bust=1570416516&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/2/?bust=1570416516&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/2/?bust=1570416516&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/46199127/2/?bust=1570416516"
+                }
+            ],
+            "status": "adoptable",
+            "status_changed_at": "2019-10-07T02:46:26+0000",
+            "published_at": "2019-10-07T02:46:26+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@rescuedogsrocknyc.org",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "New York",
+                    "state": "NY",
+                    "postcode": "10075",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/46199127"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ny1274"
+                }
+            }
+        }
+    ],
+    "pagination": {
+        "count_per_page": 5,
+        "total_count": 5054485,
+        "current_page": 1,
+        "total_pages": 1010897,
+        "_links": {
+            "next": {
+                "href": "/v2/animals?limit=5&page=2&type=dog"
+            }
+        }
+    }
+}
